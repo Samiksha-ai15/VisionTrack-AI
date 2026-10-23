@@ -1,0 +1,10 @@
+```text
+streamlit
+ultralytics
+opencv-python
+pillow
+pandas
+plotly
+streamlit-webrtc
+av
+```
